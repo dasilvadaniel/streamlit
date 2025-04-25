@@ -40,6 +40,8 @@ The app expects a CSV file named `project_activities.csv` with the following col
 - Pie chart of overall progress
 - Top 10 projects with most incomplete activities
 
+![image](https://github.com/user-attachments/assets/c3f53ec1-db35-4e50-84ae-60a5485f6137)
+
 ---
 
 Made with ❤️ using [Streamlit](https://streamlit.io)
